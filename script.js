@@ -10,10 +10,10 @@ function exploreFeatured() {
   // Rotating Banner Carousel
   let currentImageIndex = 0;
   const images = [
-    'images/EarlyBloom.jpg',
-    'images/LanternInTheDark.jpg',
-    'images/PoolBalls.jpg',
-    'images/Envy.jpg'
+    'EarlyBloom.jpg',
+    'LanternInTheDark.jpg',
+    'PoolBalls.jpg',
+    'Envy.jpg'
   ];
   
   function rotateBanner() {
